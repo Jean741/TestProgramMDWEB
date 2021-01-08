@@ -20,7 +20,7 @@ def getJsonFromExel(filename,start_line,end_line):
 
     #Definitions des parameres de l'exercice le traitement concerne la ligne 4 a la ligne 32
     num_rows = end_line
-    curr_row = start_line+1
+    curr_row = start_line
     liste_Of_Items=[]
     order = 0
     while curr_row < num_rows:
@@ -55,4 +55,4 @@ def convertExelFileToJson(filename,start_line,end_line):
     
 
 
-convertExelFileToJson('test.xlsx',4,32)
+convertExelFileToJson('test.xlsx',3,32)
