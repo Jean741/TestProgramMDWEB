@@ -1,0 +1,31 @@
+Bonjour
+
+###################################********************#######################
+
+Les codes des exercices sont situés respectivement :
+
+ecercice1 => ecercice1.py
+
+ecercice2 => ecercice2.py
+
+ecercice3 => test_exercices.py
+
+###################################********************#######################
+
+Pour :
+
+Constuire l'application executer le fichier : BuildApp.cmd
+
+
+Faire les tests unitaires executer le fichier : TestApp.cmd
+
+Executer l'ecercice2 executer le fichier exercice2.cmd
+
+
+###################################********************#######################
+
+
+En attente d'un retour favorable.
+Belle journée.
+
+CPR									Messanvi Jean-Claude Vincent ATTIGLAH
